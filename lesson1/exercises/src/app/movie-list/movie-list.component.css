@@ -1,5 +1,11 @@
 .movies{
+<<<<<<< HEAD
     color:blue;
+=======
+    color:aqua;
+    font-size: 20px;
+    
+>>>>>>> 914d2845a7228e9a148af14f8c5499b8a78bc697
 }
 h3{
     text-align: center;
